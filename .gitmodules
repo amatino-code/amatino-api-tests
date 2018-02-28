@@ -1,0 +1,3 @@
+[submodule "amatino-python"]
+	path = amatino-python
+	url = https://github.com/amatino-code/amatino-python
